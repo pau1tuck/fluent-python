@@ -1,3 +1,6 @@
 {
-    "python.formatting.provider": "autopep8"
+    "python.formatting.provider": "black",
+    "black-formatter.path": [
+        "/home/paul/dev/fluent-python/env/bin/black"
+    ]
 }
